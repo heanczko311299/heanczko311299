@@ -1,7 +1,7 @@
 # heanczko
 > Mexico City
 
-CEH / Pentest + / OSCP (student)
+CEH (Cert) / Pentest + (Cert) / OSCP (Student)
 
 My hacking repo
 
