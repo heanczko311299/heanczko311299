@@ -17,4 +17,3 @@
           > Pentester
 
 
-Pentest + (Cert) / OSCP (Student)
