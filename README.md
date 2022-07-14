@@ -1,8 +1,5 @@
 # heanczko
 
-## Pentester
-## CTF Player
-## Cibersecurity Analyst
-
-
-### Mexico City
+- Pentester
+- CTF Player
+- Cibersecurity Analyst
