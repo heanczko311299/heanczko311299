@@ -1,12 +1,8 @@
 # heanczko
-                                                         
-          heanczko@kali:~ $ whoami
-          > heanczko
-                                                                                               
-          heanczko@kali:~ $ locate
-          > Mexico City
 
-          heanczko@kali:~ $ ps
-          > Pentester
+## Pentester
+## CTF Player
+## Cibersecurity Analyst
 
 
+### Mexico City
