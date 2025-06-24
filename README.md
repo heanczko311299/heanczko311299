@@ -23,5 +23,3 @@ I specialize in offensive security methodologies with a focus on penetration tes
 • Secure Development Lifecycle & ITDR  
 
 Explore my pinned repositories to see selected projects and tooling experiments. All opinions and code here are my own, shaped by a passion for continuous learning and cyber resilience.
-
-> “The quieter you become, the more you are able to hear.” – Rumi
