@@ -5,8 +5,10 @@
 # 🔐 Offensive Security Specialist | Senior Pentester
 
 Welcome to my GitHub.
+I specialize in offensive security methodologies with a focus on penetration testing across web, mobile, API, cloud, and enterprise environments. 
+My approach combines deep technical execution with strategic insights, aiming to enhance the security posture of modern systems.
 
-I specialize in offensive security methodologies with a focus on penetration testing across web, mobile, API, cloud, and enterprise environments. My approach combines deep technical execution with strategic insights, aiming to enhance the security posture of modern systems.
+📝 **Certs**: INE (eJPT/eWPT/eCPPT) | Pentest+ | OSCP
 
 🧰 **Key Expertise**  
 • Web, Mobile & API Pentesting (OWASP)  
@@ -16,10 +18,11 @@ I specialize in offensive security methodologies with a focus on penetration tes
 • DevSecOps Integration using GitLab CI/CD  
 • Threat Modeling & Tactical Simulation (Cyber Kill Chain)  
 
-💡 **Interests**  
-• Red Team Tactics & Threat Intelligence  
-• Privacy-focused Communication Platforms  
+💡 **Focus**  
+• Red Team Tactics & Automation
+• Real-World Banking Security
 • Training and Mentorship in Pentesting  
-• Secure Development Lifecycle & ITDR  
+• Secure Development Lifecycle
 
-Explore my pinned repositories to see selected projects and tooling experiments. All opinions and code here are my own, shaped by a passion for continuous learning and cyber resilience.
+Explore my pinned repositories to see selected projects and tooling experiments. 
+All opinions and code here are my own, shaped by a passion for continuous learning and cyber resilience.
